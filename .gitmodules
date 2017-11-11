@@ -1,0 +1,3 @@
+[submodule "AwesomeLinuxLearning"]
+	path = AwesomeLinuxLearning
+	url = https://github.com/CSUSB-CCDC/AwesomeLinuxLearning.git
